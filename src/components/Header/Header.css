@@ -1,12 +1,6 @@
 .header {
-  background: rgb(222, 237, 240);
-  background: linear-gradient(
-    90deg,
-    rgba(222, 237, 240, 1) 0%,
-    rgba(219, 237, 241, 1) 18%,
-    rgba(0, 212, 255, 1) 75%,
-    rgba(81, 213, 240, 1) 100%
-  );  
+  background-color: green;
+  
   margin: .5rem;
   border-bottom: 2px solid black;
 }
